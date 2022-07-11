@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = antolemaire08@gmail.com
+	name = antoine Lemaire
